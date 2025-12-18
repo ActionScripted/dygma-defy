@@ -63,6 +63,10 @@ I still don't love two-hands for some things. Cmd + Tab for example sucks two ha
 
 The thumbs can be confusing and hitting enter when chatting when you meant to send a space or delete can be annoying at first. Some textured mouse rubber can be a nice addition to some of the thumb keys to help you know where you are and what you're hitting.
 
+Have tried super keys and the timing of them just continues to annoy the crap out of me so we're not really using them. Haven't tried the new updated super keys though.
+
+I need repeats on home row keys so home row mods weren't ideal for me but I love the idea of home row stuff and less thumb stuff for some actions (maybe cmd and tab...).
+
 ## Restoring Defaults
 
 To restore your keyboard to factory settings or learn how to load these backup configurations, see the official guide: [how to restore the default configuration of the keyboard](https://support.dygma.com/hc/en-us/articles/360007165377-How-to-restore-the-default-configuration-of-the-keyboard).

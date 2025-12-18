@@ -31,6 +31,10 @@ Symbols are organized by logical relationships. Openers and closers group togeth
 
 [![Magic Layer](layer4_magic.png)](layer4_magic.png)
 
+## Layer 5+: ???
+
+These are either me abusing layers to move things around, back things up or play with some stuff like maybe having a gaming layer. Rough stuff above layer 4, just ignore these.
+
 ## Restoring Defaults
 
 To restore your keyboard to factory settings or learn how to load these backup configurations, see the official guide: [how to restore the default configuration of the keyboard](https://support.dygma.com/hc/en-us/articles/360007165377-How-to-restore-the-default-configuration-of-the-keyboard).

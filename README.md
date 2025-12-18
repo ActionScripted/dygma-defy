@@ -1,4 +1,6 @@
-# Dygma Defy Keyboard Layout
+# Dygma Defy "Cruiser" Layout
+
+> Like a cruiser board you might not go fast and might not be doing a ton of tricks but you also won't get hurt.
 
 Custom keyboard layout for the **Dygma Defy**. This configuration is optimized for efficient typing and development workflow, with dedicated layers for symbols, functional keys, and advanced features.
 
